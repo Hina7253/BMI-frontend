@@ -1,4 +1,4 @@
-
+# 🎨 Java Code Analyzer - Frontend
 
 > Modern, responsive web interface for Java code analysis with real-time feedback and beautiful visualizations
 
