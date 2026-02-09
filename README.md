@@ -186,19 +186,6 @@ git push -u origin main
 - Deploy!
 ```
 
-
-
-### Deploy to Vercel
-
-```bash
-# Install Vercel CLI
-npm install -g vercel
-
-# Deploy
-cd frontend
-vercel --prod
-```
-
 ### Deploy to GitHub Pages
 
 ```bash
