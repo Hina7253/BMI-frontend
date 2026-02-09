@@ -116,15 +116,6 @@ open index.html
 xdg-open index.html
 ```
 
-#### Option 2: Local Server (Recommended)
-
-**Using Python:**
-```bash
-# Python 3
-python -m http.server 8000
-
-# Navigate to: http://localhost:8000
-```
 
 **Using Node.js:**
 ```bash
