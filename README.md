@@ -23,6 +23,7 @@ A sleek, modern single-page application (SPA) built with vanilla JavaScript that
 - Responsive layout
 - Copy/paste support
 
+### 📊 **Metrics Dashboard**
 - Visual progress bars
 - Animated counters
 - Circular quality score indicator
