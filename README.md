@@ -284,25 +284,6 @@ git push origin gh-pages
 
 ---
 
-### Typography
-
-```css
-/* Font Stack */
-font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-
-/* Code Font */
-font-family: 'Fira Code', 'Courier New', monospace;
-
-/* Font Sizes */
---font-xs: 0.85em;
---font-sm: 0.9em;
---font-base: 1em;
---font-lg: 1.2em;
---font-xl: 1.5em;
---font-2xl: 2em;
---font-3xl: 3em;
-```
-
 ### Animations
 
 ```css
