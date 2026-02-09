@@ -116,18 +116,6 @@ open index.html
 xdg-open index.html
 ```
 
-
-**Using Node.js:**
-```bash
-# Install http-server globally
-npm install -g http-server
-
-# Run server
-http-server -p 8000
-
-# Navigate to: http://localhost:8000
-```
-
 **Using VS Code:**
 ```
 1. Install "Live Server" extension
