@@ -284,31 +284,7 @@ git push origin gh-pages
 
 ---
 
-## 🎨 Styling
 
-### Color Palette
-
-```css
-/* Primary Colors */
---primary-purple: #667eea;
---primary-pink: #764ba2;
---accent-pink: #f093fb;
-
-/* Background Colors */
---bg-dark: #0f0f23;
---bg-card: rgba(17, 24, 39, 0.95);
---bg-section: rgba(31, 41, 55, 0.5);
-
-/* Text Colors */
---text-primary: #e2e8f0;
---text-secondary: #94a3b8;
---text-muted: #64748b;
-
-/* Status Colors */
---critical: #ef4444;
---warning: #f59e0b;
---info: #3b82f6;
---success: #10b981;
 ```
 
 ### Typography
