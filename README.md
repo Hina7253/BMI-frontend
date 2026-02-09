@@ -284,9 +284,6 @@ git push origin gh-pages
 
 ---
 
-
-```
-
 ### Typography
 
 ```css
