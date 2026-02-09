@@ -186,17 +186,7 @@ git push -u origin main
 - Deploy!
 ```
 
-#### Method 3: Netlify CLI
-```bash
-# Install Netlify CLI
-npm install -g netlify-cli
 
-# Login
-netlify login
-
-# Deploy
-netlify deploy --prod
-```
 
 ### Deploy to Vercel
 
