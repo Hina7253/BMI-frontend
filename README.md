@@ -7,24 +7,6 @@
 
 ---
 
-## 📋 Table of Contents
-
-- [Overview](#-overview)
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [File Structure](#-file-structure)
-- [Getting Started](#-getting-started)
-- [Configuration](#-configuration)
-- [Deployment](#-deployment)
-- [Components](#-components)
-- [Styling](#-styling)
-- [API Integration](#-api-integration)
-- [Browser Support](#-browser-support)
-- [Performance](#-performance)
-- [Troubleshooting](#-troubleshooting)
-
----
-
 ## 🌟 Overview
 
 A sleek, modern single-page application (SPA) built with vanilla JavaScript that provides an intuitive interface for analyzing Java code. Features include real-time code analysis, metrics visualization, and professional PDF report generation.
