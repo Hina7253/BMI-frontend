@@ -1,6 +1,6 @@
 # 🎨 Java Code Analyzer - Frontend
 
-> Modern, responsive web interface for Java code analysis with real-time feedback and beautiful visualizations
+
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/your-badge-id/deploy-status)](https://app.netlify.com/sites/your-site/deploys)
 [![License](https://img.shields.io/badge/license-MIT-green)](../LICENSE)
