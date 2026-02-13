@@ -17,7 +17,7 @@ A sleek, modern single-page application (SPA) built with vanilla JavaScript that
 
 ## ✨ Features
 
-### 🔍 **Code Analysis Interface**
+
 - Syntax-aware textarea with monospace font
 - Real-time character counting
 - Responsive layout
