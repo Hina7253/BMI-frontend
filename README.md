@@ -30,7 +30,6 @@ A sleek, modern single-page application (SPA) built with vanilla JavaScript that
 - Color-coded grade badges (A-F)
 - Responsive metric cards
 
-### 📄 **PDF Export**
 - Client-side PDF generation using jsPDF
 - Multi-page support
 - Professional formatting
