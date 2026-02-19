@@ -7,7 +7,7 @@
 
 ---
 
-
+## Overview
 A sleek, modern single-page application (SPA) built with vanilla JavaScript that provides an intuitive interface for analyzing Java code. Features include real-time code analysis, metrics visualization, and professional PDF report generation.
 
 **Live Demo:** [https://javacodereview.netlify.app](https://javacodereview.netlify.app)
